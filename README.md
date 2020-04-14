@@ -24,9 +24,15 @@ Displays the top public gists from Github.
 
 7. 网络层 
 
-   - 一个初始化
-   - 二两错误处理
-   - 两个拦截器 
+   * 一个初始化
+   
+   * 二两错误处理
+
+   * 两个拦截器 
+   
+8. 分页、缓存和预制
+
+9. 
 
    
 
@@ -34,6 +40,7 @@ Displays the top public gists from Github.
 
 1. java -jar ***.jar
 2. 18min 
+3. maven   https://maven.aliyun.com/mvn/view
 
 **第三方库**
 
